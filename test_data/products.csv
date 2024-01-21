@@ -1,0 +1,11 @@
+product_id,product_name,category_id,price,description,image_url,date_added
+1,Smartphone,1,699.99,High-end smartphone with advanced features.,image1.jpg,2024-01-19
+2,Laptop,1,1299.99,Powerful laptop for gaming and work.,image2.jpg,2024-01-20
+3,T-shirt,2,19.99,Comfortable cotton T-shirt.,image3.jpg,2024-01-21
+4,Sofa,10,899.99,Spacious and comfortable sofa for your living room.,image4.jpg,2024-01-22
+5,Coffee Table,10,129.99,Modern coffee table with storage.,image5.jpg,2024-01-23
+6,Dumbbells Set,5,49.99,Set of adjustable dumbbells for home workouts.,image6.jpg,2024-01-24
+7,Hair Dryer,7,34.99,Ionic hair dryer for fast drying.,image7.jpg,2024-01-25
+8,Cookbook,4,14.99,Collection of delicious recipes.,image8.jpg,2024-01-26
+9,Running Shoes,5,79.99,High-performance running shoes.,image9.jpg,2024-01-27
+10,Refrigerator,9,799.99,Energy-efficient refrigerator for your kitchen.,image10.jpg,2024-01-28
